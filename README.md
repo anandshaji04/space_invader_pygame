@@ -1,5 +1,5 @@
 # Space Invader Game
-refer to sub=branch(main)
+refer to sub-branch(master)
 
 ## Overview
 
